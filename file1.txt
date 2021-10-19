@@ -2,4 +2,9 @@ i am sylvia
 from bots
 originally from bams
 a lover of christ
+<<<<<<< HEAD
 cherry pick
+=======
+a prayert worrior
+addent follower of christi
+>>>>>>> c73dbee37d54cb4094696b233335807ae1912d4a
